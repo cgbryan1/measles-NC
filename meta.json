@@ -1,0 +1,9 @@
+{
+  "code": "nc",
+  "name": "NC",
+  "fullName": "North Carolina",
+  "fips": "37",
+  "dataDir": "/data",
+  "sourceUrl": "https://www.dph.ncdhhs.gov/programs/epidemiology/immunization/data/kindergarten-dashboard",
+  "sourceLabel": "NC DHHS"
+}
